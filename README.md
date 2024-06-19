@@ -1,7 +1,3 @@
-Here’s a detailed README for your **FusionPro** project, complete with the provided MATLAB code and a brief project description.
-
----
-
 # FusionPro
 
 FusionPro is a digital signal processing (DSP) project that performs image fusion using various fusion strategies. It uses wavelet transforms to combine two images into one, enhancing the features and details of both images.
